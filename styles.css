@@ -1,0 +1,16 @@
+
+body{ 
+    background-color: rgb(217, 238, 247);
+  }
+  h2 {
+    color: black;
+  }
+
+  /* class below */
+  .exampleHeader 
+  {
+    font-size: 32px;
+    color: blueviolet;
+  }
+
+ 
